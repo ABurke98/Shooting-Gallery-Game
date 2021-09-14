@@ -1,7 +1,4 @@
-/*
-Name : Anthony
- Student Number: 20095364
- 
+
  Brief description of the game developed: I have developed a shooting gallery where random targets will spawn after a set timer,
  and has a working lives system as well as the functionality to soft reset the game without needing to exit the program completely, the user controls a scope with the mouse and
  will look around to try and find targets in windows. if a target is hit the player will get a point and hear a gun shot sound, if the target is missed the player will hear a whooshing sound of
@@ -13,7 +10,7 @@ Name : Anthony
  
  If a player enters eg 10000 games in the input window the program makes it default to 5 and it will cause an Array out of bounds error at the end of the fifth round but if a player enter eg 7 and then the game sets it to 5 it will work fine with no errors.
  
- Any sources referred to during the development of the assignment (be precise and specific with references) {there no need to reference lecture/lab materials}:
+ Any sources referred to during the development of the game are listed below
  
  https://processing.org/reference/millis_.html - Millis() in Processing 
  https://processing.org/examples/arrayobjects.html - Array objects in Processing
